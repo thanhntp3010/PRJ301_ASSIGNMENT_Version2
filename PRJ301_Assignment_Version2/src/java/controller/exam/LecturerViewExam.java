@@ -21,7 +21,7 @@ import model.Exam;
  *
  * @author X1 Nano
  */
-public class LecturerViewExamController extends HttpServlet {
+public class LecturerViewExam extends HttpServlet {
    
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">
     /** 
